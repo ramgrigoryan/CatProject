@@ -1,0 +1,6 @@
+.App {
+  overflow: hidden;
+}
+.cat-container {
+  display: flex;
+}
